@@ -1,6 +1,4 @@
 # DSR-b35
 
-## Subtitle 
-
-* bullet 1
-* bullet 2 
+## Day 1:
+### Interview questions: https://github.com/alexeygrigorev/data-science-interviews
